@@ -1,14 +1,20 @@
 body {
-    background-color: black;
-    color: white;
-    font-family: cursive, fantasy;
+  background-color: black;
+  color: white;
+  font-family: cursive, fantasy;
 }
 
-h1, h2, h3 {
-    color: pink;
+h1,
+h2,
+h3 {
+  color: pink;
 }
 
 .white-border {
-    border: 5px dotted pink;
-    border-radius: 12px;
+  border: 5px dotted pink;
+  border-radius: 12px;
+}
+
+#ingredients {
+  color: purple;
 }
